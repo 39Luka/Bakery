@@ -40,91 +40,91 @@ export const productos = [
     descripcion: "Dulce tradicional espolvoreado con azúcar glas, esponjoso y ligero.",
     precio: 2.00,
     categoria: "Bollería",
-    imagen: "https://example.com/img/ensaimada.jpg"
+    imagen: "https://i.ibb.co/LDv2fCCL/ensaimada-mallorquina.jpg"
   },
   {
     nombre: "Tarta de manzana",
     descripcion: "Base crujiente con relleno de compota y rodajas de manzana caramelizadas.",
     precio: 12.00,
     categoria: "Pasteles",
-    imagen: "https://example.com/img/tarta-manzana.jpg"
+    imagen: "https://i.ibb.co/FkM5J6NS/tarta-de-manzana.jpg"
   },
   {
     nombre: "Cheesecake",
     descripcion: "Tarta cremosa de queso con base de galleta y mermelada de frutos rojos.",
     precio: 14.50,
     categoria: "Pasteles",
-    imagen: "https://example.com/img/cheesecake.jpg"
+    imagen: "https://i.ibb.co/QFpnqq3F/cheesecake.jpg"
   },
   {
     nombre: "Tarta de chocolate",
     descripcion: "Bizcocho esponjoso cubierto con ganache de chocolate negro.",
     precio: 13.00,
     categoria: "Pasteles",
-    imagen: "https://example.com/img/tarta-chocolate.jpg"
+    imagen: "https://i.ibb.co/LDw27pb9/tarta-de-chocolate.jpg"
   },
   {
     nombre: "Donut glaseado",
     descripcion: "Rosquilla clásica frita con glaseado de vainilla brillante.",
     precio: 1.50,
     categoria: "Bollería",
-    imagen: "https://example.com/img/donut-glaseado.jpg"
+    imagen: "https://i.ibb.co/qLb9bpMd/donut-glaseado.jpg"
   },
   {
     nombre: "Donut de chocolate",
     descripcion: "Rosquilla cubierta con baño de chocolate con leche.",
     precio: 1.60,
     categoria: "Bollería",
-    imagen: "https://example.com/img/donut-chocolate.jpg"
+    imagen: "https://i.ibb.co/4ksy5Ks/donut-de-chocolate.jpg"
   },
   {
     nombre: "Pan de molde artesanal",
     descripcion: "Pan tierno y cuadrado, perfecto para tostadas o sándwiches.",
     precio: 2.80,
     categoria: "Pan",
-    imagen: "https://example.com/img/pan-molde.jpg"
+    imagen: "https://i.ibb.co/ynqJGGvm/pan-de-molde-artesanal.jpg"
   },
   {
     nombre: "Pan de centeno",
     descripcion: "Pan oscuro con sabor intenso y alto contenido en fibra.",
     precio: 3.00,
     categoria: "Pan",
-    imagen: "https://example.com/img/pan-centeno.jpg"
+    imagen: "https://i.ibb.co/VpVq4jvY/pan-de-centeno.jpg"
   },
   {
     nombre: "Magdalena casera",
     descripcion: "Esponjosa magdalena tradicional con un toque de limón.",
     precio: 1.20,
     categoria: "Bollería",
-    imagen: "https://example.com/img/magdalena.jpg"
+    imagen: "https://i.ibb.co/Pv2wFyyk/magdalena-casera.jpg"
   },
   {
     nombre: "Palmera de chocolate",
     descripcion: "Hojaldre en forma de corazón cubierto con chocolate negro.",
     precio: 1.80,
     categoria: "Bollería",
-    imagen: "https://example.com/img/palmera-chocolate.jpg"
+    imagen: "https://i.ibb.co/35BsXm7m/palmera-de-chocolate.jpg"
   },
   {
     nombre: "Panecillo de leche",
     descripcion: "Suave y ligeramente dulce, perfecto para desayunos o meriendas.",
     precio: 0.90,
     categoria: "Pan",
-    imagen: "https://example.com/img/panecillo-leche.jpg"
+    imagen: "https://i.ibb.co/jvvyt1W2/panecillo-de-leche.jpg"
   },
   {
     nombre: "Eclair de vainilla",
     descripcion: "Masa choux rellena de crema de vainilla y glaseado brillante.",
     precio: 2.50,
     categoria: "Pasteles",
-    imagen: "https://example.com/img/eclair-vainilla.jpg"
+    imagen: "https://i.ibb.co/pjKZ2m5V/eclair-de-vainilla.jpg"
   },
   {
     nombre: "Brownie de chocolate",
     descripcion: "Bizcocho denso de cacao con nueces y textura jugosa.",
     precio: 2.20,
     categoria: "Pasteles",
-    imagen: "https://example.com/img/brownie.jpg"
+    imagen: "https://i.ibb.co/XkyCWDPS/brownie-de-chocolate.jpg"
   },
   {
     nombre: "Galletas de mantequilla",

@@ -17,5 +17,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 # Sitios usados
-pexels.com , fotos
+pexels.com freepik, fotos
 imgbb.com, alojamiento de imagenes
