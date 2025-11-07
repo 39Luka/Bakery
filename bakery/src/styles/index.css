@@ -1,2 +1,64 @@
-@import "tailwindcss";
 @import "./theme.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* === Componentes personalizados === */
+@layer components {
+  /* ===== Base tipográfica general ===== */
+  .text-base {
+    @apply font-base text-primary tracking-base;
+  }
+
+  /* ===== Headings ===== */
+  .heading-base {
+    @apply text-base font-heading;
+  }
+
+  .heading-h1 {
+    @apply heading-base text-h1;
+  }
+
+  .heading-h2 {
+    @apply heading-base text-h2;
+  }
+
+  .heading-h3 {
+    @apply heading-base text-h3;
+  }
+
+  .heading-h4 {
+    @apply heading-base text-h4;
+  }
+
+  .heading-h5 {
+    @apply heading-base text-h5;
+  }
+
+  .heading-h6 {
+    @apply heading-base text-h6 font-heading6;
+  }
+
+  /* ===== Textos ===== */
+  .text-bold {
+    @apply font-bold;
+  }
+
+  .text-large {
+    @apply text-base text-large;
+  }
+
+  .text-medium {
+    @apply text-base text-medium;
+  }
+
+  .text-normal {
+    @apply text-base text-normal;
+  }
+
+  .text-small {
+    @apply text-base text-small;
+  }
+}
